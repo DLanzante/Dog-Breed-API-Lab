@@ -1,5 +1,5 @@
-<h1 align="center">Name</h1>
-<p align="center"><strong>Description</strong>
+<h1 align="center">Dominic Lanzante DJango Dog / Breed API Lab</h1>
+<p align="center"><strong>In this project the author is going to build a new Django application with two API endpoints. The first allows the end user to create a new `Dog` model by making a to `api/dogs`.</strong>
 <br>Comment</p>
 <br/>
 <div align="center"><img src="demo.gif"></img></div>
