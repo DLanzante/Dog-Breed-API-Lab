@@ -22,9 +22,9 @@ If project has been improved after submission, here is a good place to specify i
 
 <h2>Installation</h2>
 
-1. Download this project as zip and extract it
-2. Import it in Android Studio
-3. Sync Gradle and run on your device/emulator
+1. Download 
+2. Import 
+3. Sync 
 
 Or use <a href="https://github.com/DLanzante/Dog-Breed-API-Lab/tree/main" target="_blank">`This File`</a> by <a href="https://github.com/DLanzante/Dog-Breed-API-Lab" target="_blank">@DLanzante</a>
 
