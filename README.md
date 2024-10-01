@@ -26,7 +26,7 @@ If project has been improved after submission, here is a good place to specify i
 2. Import it in Android Studio
 3. Sync Gradle and run on your device/emulator
 
-Or use <a href="" target="_blank">`dryrun`</a> by <a href="" target="_blank">@DLanzante</a>
+Or use <a href="" target="_blank">`This File`</a> by <a href="" target="_blank">@DLanzante</a>
 
 <h2>Contributing</h2>
 Mention pull requests. Link to an example and/or put it down here
